@@ -5,7 +5,7 @@ app.get('/',(req,res)=>{
 res.send('Hello')
 });
 
-
-app.listen(3000, ()=>{
+let PORT=process.env.PORT||3000
+app.listen(PORT, ()=>{
     console.log('app run on 3000');
 })

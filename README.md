@@ -1,3 +1,3 @@
 # cloud-server
 
-http://lap16-env.eba-qmehqeme.us-east-1.elasticbeanstalk.com/
+http://finallab16-env.eba-6bk4akgs.us-east-1.elasticbeanstalk.com/
